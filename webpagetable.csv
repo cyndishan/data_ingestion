@@ -1,0 +1,20 @@
+,NAME OF SYSTEM OR PORTAL CHANNEL,NAME OF SYSTEM OR ACTIVITY,STATUS DURING OUTAGE,DATA FROZEN AS OF,EXPECTED UP TIME
+0,Personal Information,Addresses,View Only,1/18/2008,Go live date
+1,Personal Information,Names,View Only,1/18/2008,Go live date
+2,Personal Information,Phone Numbers,View Only,1/18/2008,Go live date
+3,Personal Information,Emergency Contacts,View Only,1/18/2008,Go live date
+4,Group Leave Balance,Group Leave Balances,View Only,12/31/2007,3/1/2008
+5,Leave/CTO Balances,Leave and CTO Balances,View Only,12/31/2007,3/1/2008
+6,Faculty Course Info,Class Search/Browse Catalog,,,
+7,Faculty Course Info,Record Grades,,,
+8,Faculty Course Info,Access Class Roster,,,
+9,Faculty Course Info,Student Data,,,
+10,Faculty Course Info,View My Class Schedule,,,
+11,Faculty Course Info,View My Weekly Schedule,,,
+12,Enrollment Planning,View Course Catalog and Schedule of Classes,,,
+13,Student Pay,Timekeeper Access,Unavailable,1/18/2008,
+14,PolyData,????,,,
+15,PolyData,,,,
+16,PolyProfile,,,,
+17,PolyProfile,,,,
+18,PolyProfile,,,,
